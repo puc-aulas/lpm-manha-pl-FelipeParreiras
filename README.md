@@ -8,9 +8,6 @@ Este é um projeto feito na linguagem Java, feito para orquestrar um sistema de 
 * Enzo de Paiva Rezende
 * Felipe Luiz Parreiras Lima
 * Lucas Flor Vilela
-* Nome completo do aluno 4
-* Nome completo do aluno 4
-* Nome completo do aluno 4
 
 ## Professor responsável 
 
